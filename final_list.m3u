@@ -4,5 +4,25 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/07.ts
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="Bangladeshi (Server 4)",3.Duronto TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.ts
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="Bangladeshi (Server 4)",4.You tube test
-https://www.youtube.com/watch?v=KgiwN7ddb2U
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Bangladeshi (Server 4)",4.Maasranga
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/01.ts
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi (Server 4)",5.Ekattor
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/02.ts
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangladeshi (Server 4)",11.GTV HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/06.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png" group-title="Bangladeshi (Server 4)",12.Nagorik TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/03.ts
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/দীপ্ত_টিভি_লোগো_২.jpg" group-title="Bangladeshi (Server 4)",13.Deepto TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/05.ts
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image33ddf62bcf70a5b9.png" group-title="Bangladeshi (Server 4)",14.Channel I
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/04.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Bangladeshi (Server 4)",15.SATV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/08.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ogzQuzh.jpg" group-title="English",21.Cine Series
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/alJj9sb.jpg" group-title="Music",22.Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/CuqQXZz.png" group-title="Others",23.CNN
+http://203.162.235.41:16918
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwmzvoVGg5ZoC25muKab8tnWnZKHfTOq984A&usqp=CAU" group-title="Others",24.Cooking 4U
+https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8?fluxustv.m3u8
